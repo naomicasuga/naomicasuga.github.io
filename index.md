@@ -9,11 +9,11 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'generic.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3><a href="{{ 'generic.html' | absolute_url }}">Generic</a></h3>
+			<a href="{{ '/posts/generic.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<h3><a href="{{ '/posts/generic.html' | absolute_url }}">Generic</a></h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="{{ 'generic.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '/posts/generic.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
