@@ -21,9 +21,9 @@ title: Senior High School Enrollment Analysis 2016-2021
 <p><img src="{{ 'assets/images/shs/shs6.jpg' | absolute_url }}" alt="" height="auto" width="700" /></p>
 <p>The chart above shows that majority of the students enroll in public schools, followed by private, and lastly State Universities and Colleges (SUC) / Local Universities and Colleges (LUC). Public school students are in an upward trend unlike private and SUCs/LUCs students which are in a constant range from 2017-2018.</p>
 <p>It is important to note that DepEd offers vouchers for those who graduated from public JHS continuing their studies in a private SHS to assist them financially. It seems that the amount of the subsidy is not enough to cover the costs of studying in a private school since most still prefer studying in a public school. Aside from the tuition fees, another factor that could affect this number is the presence or number of schools in an area.</p>
-<p><img src="{{ 'assets/images/shs/shs7.jpg' | absolute_url }}" alt="" height="auto" width="700" /></p>
+<p><img src="{{ 'assets/images/shs/shs7.jpg' | absolute_url }}" alt="" height="auto" width="1000" /></p>
 <p>Next is the comparison of total number of students enrolled per region per year. NCR has the majority of students from 2016-2018. However, in 2018-2021, there were more enrollees in Region IV-A (CALABARZON).</p>
-<p><img src="{{ 'assets/images/shs/shs8.jpg' | absolute_url }}" alt="" height="auto" width="700" /></p>
+<p><img src="{{ 'assets/images/shs/shs8.jpg' | absolute_url }}" alt="" height="auto" width="1000" /></p>
 <p>Lastly, here are the Top 5 strands based on overall population per year. For reference, here are the tracks offered in different schools:</p>
 <ol>
   <li>Academic Track
