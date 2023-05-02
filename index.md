@@ -11,7 +11,7 @@ layout: default
 		<article>
 			<a href="{{ '/posts/generic.html' | absolute_url }}" class="image"><img src="assets/images/persona.jpg" alt="" /></a>
 			<h3><a href="{{ '/posts/generic.html' | absolute_url }}">Generic</a></h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>As part of the requirements to complete the For The Women Foundation Data Science Program, real-world data from a sponsor company was given to our team. Data analysis and modelling was done through Excel, Python, and Tableau.</p>
 			<ul class="actions">
 				<li><a href="{{ '/posts/generic.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
