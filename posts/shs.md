@@ -5,7 +5,7 @@ title: Senior High School Enrollment Analysis 2016-2021
 
 <p>In recent years, changes in the basic education curriculum of the Philippines happened due to the implementation of the K to 12 Program. This meant that on top of kindergarten, six years of elementary education, and four years of (Junior) High School, students are now required to study two more years of Senior High School (SHS). The program was implemented for the Philippines to follow the global standard of 13 years of basic education. Students can choose their own strands in SHS and in S.Y. 2016-2017, the first batch to undergo SHS started Grade 11.</p>
 <p>The dataset used, “Historical Enrollment Senior High School (Public, Private and SUCsLUCs) SY 2010-2011 to 2020-2021”, is from the Department of Education. A sample table is shown below.</p>
-<p><img src="{{ 'assets/images/shs/shs1.jpg' | absolute_url }}" alt="" height="auto" width="800" /></p>
+<p><img src="{{ 'assets/images/shs/shs1.jpg' | absolute_url }}" alt="" height="auto" width="1000" /></p>
 <p>This was transformed to the dataset below for better analysis.</p>
 <p><img src="{{ 'assets/images/shs/shs2.jpg' | absolute_url }}" alt="" height="auto" width="auto" /></p>
 
