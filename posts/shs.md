@@ -45,7 +45,7 @@ title: Senior High School Enrollment Analysis 2016-2021
 <hr class="major" />
 
 <h3>Next Steps</h3>
-<p>After looking into the enrollment of Senior High School students over the years, it would be interesting to compare these numbers with the following datasets:</p>
+<br>After looking into the enrollment of Senior High School students over the years, it would be interesting to compare these numbers with the following datasets:
 <br><ol>
   <li>Data on schools, their locations, and the strands they offer</li>
   <li>Population per Region specifically the age group of SHS students</li>
@@ -57,6 +57,6 @@ title: Senior High School Enrollment Analysis 2016-2021
 <hr class="major" />
 
 <h3>References</h3>
-<p>Department of Education. (n.d.). <i>Datasets.</i> Department of Education. https://www.deped.gov.ph/alternative-learning-system/resources/facts-and-figures/datasets/</p>
+<br>Department of Education. (n.d.). <i>Datasets.</i> Department of Education. https://www.deped.gov.ph/alternative-learning-system/resources/facts-and-figures/datasets/
 <br>Official Gazette. (n.d.). <i>The K to 12 Basic Education Program.</i> Official Gazette of the Republic of the Philippines. https://www.officialgazette.gov.ph/k-12/
 <br>Philippine Statistics Authority. (2022, Aug 12). <i>Age and Sex Distribution in the Philippine Population (2020 Census of Population and Housing).</i> Philippine Statistics Authority. https://psa.gov.ph/content/age-and-sex-distribution-philippine-population-2020-census-population-and-housing
