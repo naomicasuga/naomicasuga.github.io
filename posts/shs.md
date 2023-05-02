@@ -45,8 +45,8 @@ title: Senior High School Enrollment Analysis 2016-2021
 <hr class="major" />
 
 <h3>Next Steps</h3>
-<br>After looking into the enrollment of Senior High School students over the years, it would be interesting to compare these numbers with the following datasets:
-<br><ol>
+<br>After looking into the enrollment of Senior High School students over the years, it would be interesting to compare these numbers with the following datasets:</br>
+<ol>
   <li>Data on schools, their locations, and the strands they offer</li>
   <li>Population per Region specifically the age group of SHS students</li>
   <li>Data on where the students studied in Junior High School</li>
