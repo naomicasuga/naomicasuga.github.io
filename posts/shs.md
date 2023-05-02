@@ -25,19 +25,19 @@ title: Senior High School Enrollment Analysis 2016-2021
 <p>Next is the comparison of total number of students enrolled per region per year. NCR has the majority of students from 2016-2018. However, in 2018-2021, there were more enrollees in Region IV-A (CALABARZON).</p>
 <p><img src="{{ 'assets/images/shs/shs8.jpg' | absolute_url }}" alt="" height="500" width="auto" /></p>
 <p>Lastly, here are the Top 5 strands based on overall population per year. For reference, here are the tracks offered in different schools:</p>
-<br><ol>
+<ol>
   <li>Academic Track
-    <br><ul>
+    <ul>
       <li>Accountancy, Business and Management (ABM)</li>
       <li>Science, Technology, Engineering, and Mathematics (STEM) </li>
       <li>Humanities and Social Science (HUMSS)</li>
       <li>General Academic Strand (GAS)</li>
     </ul>
   </li>
-  <br><li>Technical-Vocational-Livelihood Track</li>
-  <br><li>Sports Track</li>
-  <br><li>Arts and Design Track</li>
-  <br><li>Maritime Track</li>
+  <li>Technical-Vocational-Livelihood Track</li>
+  <li>Sports Track</li>
+  <li>Arts and Design Track</li>
+  <li>Maritime Track</li>
 </ol>
 <p>It is apparent that TVL has the majority of all strands. One of the goals of SHS is to make students job-ready right after graduation. It seems that TVL is the most practical strand since this equips students with skills for them to be eligible to take National Certifications from TESDA and to be able to apply for jobs after.</p>
 <p>Academic Tracks fill the rest of the Top 5. Among these, it is interesting to note that HUMSS has been gaining popularity over the years since it is the only one with a clear upward trend.</p>
