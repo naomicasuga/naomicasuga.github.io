@@ -39,7 +39,7 @@ title: Senior High School Enrollment Analysis 2016-2021
   <li>Arts and Design Track</li>
   <li>Maritime Track</li>
 </ol>
-<p>It is apparent that TVL has the majority of all strands. One of the goals of SHS is to make students job-ready right after graduation. It seems that TVL is the most practical strand since this equips students with skills for them to be eligible to take National Certifications from TESDA and to be able to apply for jobs after.</p>
+<p>It is apparent that TVL has the majority of all strands. Since one of the goals of SHS is to make students job-ready right after graduation, it seems that TVL is the most practical strand since students are equipped with skills for them to be eligible to take National Certifications from TESDA and to be able to apply for jobs after.</p>
 <p>Academic Tracks fill the rest of the Top 5. Among these, it is interesting to note that HUMSS has been gaining popularity over the years since it is the only one with a clear upward trend.</p>
 
 <hr class="major" />
