@@ -18,7 +18,7 @@ layout: default
 		</article>
 		<article>
 			<a href="{{ '/posts/shs.html' | absolute_url }}" class="image"><img src="assets/images/shs.jpg" alt="" /></a>
-			<h3>SHS Enrollment Analysis</h3>
+			<h3><a href="{{ '/posts/shs.html' | absolute_url }}">SHS Enrollment Analysis</a></h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="{{ '/posts/shs.html' | absolute_url }}" class="button">More</a></li>
