@@ -34,7 +34,7 @@ title: Senior High School Enrollment Analysis 2016-2021
       <li>General Academic Strand (GAS)</li>
     </ul>
   </li>
-  <li>Technical-Vocational-Livelihood Track</li>
+  <li>Technical-Vocational-Livelihood (TVL) Track</li>
   <li>Sports Track</li>
   <li>Arts and Design Track</li>
   <li>Maritime Track</li>
