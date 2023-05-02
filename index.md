@@ -19,7 +19,7 @@ layout: default
 		<article>
 			<a href="{{ '/posts/shs.html' | absolute_url }}" class="image"><img src="assets/images/shs.jpg" alt="" /></a>
 			<h3><a href="{{ '/posts/shs.html' | absolute_url }}">SHS Enrollment Analysis</a></h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>The K to 12 program was implemented in the Philippines in recent years. Using Historical Data of Senior High School Enrollment from 2016 to 2021 from the Department of Education, exploratory data analysis was done using Excel and Power BI.</p>
 			<ul class="actions">
 				<li><a href="{{ '/posts/shs.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
