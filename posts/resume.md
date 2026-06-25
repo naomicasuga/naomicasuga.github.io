@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Resume
 ---
 <p><img src="{{ 'assets/images/Casuga Naomi Grace_CV.jpg' | absolute_url }}" alt="" height="1000" width="auto" /></p>
